@@ -8,7 +8,7 @@ body {
 
 .sidebar {
     box-sizing: border-box;
-    width: 17%;
+    width: 15.7%;
     height: 100%;
     
 }
@@ -56,12 +56,13 @@ body {
     width: 100%;
     height: auto;
     background-color: white;
+    border-bottom: 1px solid #cccccc;
     
 }
 .img1:hover { background-color: #cccccc;}
 .img1 img { 
     padding: 10px 10px;
-    width: 75%;
+    width: 70%;
     height: auto;
     display: block;
     padding-left: 15px;
@@ -98,7 +99,7 @@ body {
 
 .main {
     box-sizing: border-box;
-    width: 83%;
+    width: 84.3%;
     height: auto;
 }
 
@@ -140,18 +141,18 @@ body {
     box-sizing: border-box;
     background-color: rgb(3, 151, 139);
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
-    padding: 15px 15px;
+    padding: 13px 13px;
     margin-left: 22px;
 }
 .btn2 { 
     box-sizing: border-box;
     background-color: rgb(3, 151, 139);
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
-    padding: 15px 15px;
+    padding: 13px 13px;
     margin-left: 15px;
 }
 
@@ -178,9 +179,9 @@ body {
     box-sizing: border-box;
     background-color: rgb(3, 151, 139);
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
-    padding: 15px 15px;
+    padding: 13px 13px;
     margin-left: 22px;
     margin-bottom: 15px;
 }
@@ -209,18 +210,18 @@ body {
     box-sizing: border-box;
     background-color: rgb(3, 151, 139);
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
-    padding: 15px 15px;
+    padding: 13px 13px;
     margin-left: 22px;
 }
 .btn5 { 
     box-sizing: border-box;
     background-color: rgb(3, 151, 139);
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
-    padding: 15px 15px;
+    padding: 13px 13px;
     margin-left: 22px;
 }
 
@@ -247,9 +248,9 @@ body {
     box-sizing: border-box;
     background-color: rgb(3, 151, 139);
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
     color: white;
-    padding: 15px 15px;
+    padding: 13px 13px;
     margin-left: 22px;
     margin-bottom: 15px;
 }
